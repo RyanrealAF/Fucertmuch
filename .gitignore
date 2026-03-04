@@ -1,0 +1,15 @@
+audio-separator/server/venv/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+dist/
+build/
+audio-separator/server/uploads/
+audio-separator/server/separated/
+ffmpeg
+ffprobe
+ffmpeg-git-*
+*.tar.xz
+audio-separator/server/uploads/
+audio-separator/server/separated/
